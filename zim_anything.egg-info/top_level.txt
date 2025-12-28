@@ -1,2 +1,0 @@
-zim_anything
-zim_config

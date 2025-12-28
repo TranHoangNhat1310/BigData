@@ -1,0 +1,17 @@
+
+    # Chặn dữ liệu và kết quả
+    /data
+    /output
+    /results
+    /kaggle
+    *.onnx
+    *.pth
+    *.zip
+    *.jpg
+    *.png
+    
+    # Chặn file hệ thống
+    __pycache__/
+    *.egg-info/
+    .ipynb_checkpoints/
+    
